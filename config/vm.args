@@ -1,0 +1,6 @@
+-sname cass_test
+
+-setcookie cass_test_cookie
+
++K true
++A30
